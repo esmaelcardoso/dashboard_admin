@@ -1,5 +1,5 @@
 import "./Sidebar.css";
-import logo from "../../img/logo.png";
+import logo from "../../img/logo.jpg";
 
 const SideBar = ({ sideBarOpenHandler, sideBarCloseHandler }) => {
     return (
