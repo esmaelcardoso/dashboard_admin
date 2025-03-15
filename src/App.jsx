@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Sidebar from "./components/sidebar/Sidebar";
 import './App.css'
 
 const App = () => {
@@ -14,7 +15,8 @@ const App = () => {
 
   return (
     <div className="container">
-      <h2>Dashboard Admin</h2>
+      <Sidebar sideBarOpenHandler = {sideBarOpenHandler} sideBarCloseHandler = {sideBarCloseHandler}>
+      </Sidebar>
     </div>
   )
 }
