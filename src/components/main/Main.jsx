@@ -9,7 +9,7 @@ const Main = () => {
                 <div className="main-title">
                     {/* <img src={hello} alt="Hello" /> */}
                     <div className="main-greeting">
-                        <h1>Olá Esmael Cardoso</h1>
+                        <h1>Olá, Esmael Cardoso!</h1>
                         <p>Bem-vindo ao seu painel!</p>
                     </div>
                 </div>
