@@ -1,5 +1,5 @@
 // import hello from "../../img/hello.svg";
-// import Chart from "../charts/Chart";
+import Chart from "../charts/Chart";
 import "./Main.css";
 
 const Main = () => {
