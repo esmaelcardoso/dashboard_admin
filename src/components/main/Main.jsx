@@ -58,7 +58,7 @@ const Main = () => {
                             </div>
                             <i className="fa fa-usd"></i>
                         </div>
-                        <Chart />
+                        {/* <Chart /> */}
                     </div>
 
                     <div className="charts-right">
