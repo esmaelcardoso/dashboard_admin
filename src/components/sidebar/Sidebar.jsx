@@ -65,7 +65,7 @@ const SideBar = ({ sideBarOpenHandler, sideBarCloseHandler }) => {
                 </div>
 
                 <div className="sidebar-link">
-                    <i className="fa fa-money"></i>
+                    <i class="fa-regular fa-money-bill-1"></i>
                     <a href="#">Pagamentos e custos</a>
                 </div>
 

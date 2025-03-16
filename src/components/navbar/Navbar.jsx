@@ -21,10 +21,10 @@ const Navbar = ({ sideBarOpen, sideBarOpenHandler }) => {
                 </a>
 
                 <a href="#">
-                    <i className="fa fa-clock-o"></i>
+                    <i className="fa-regular fa-clock"></i>
                 </a>
 
-                <img width="30" src={avatar} alt="Avatar" />
+                <img src={avatar} alt="Avatar" />
             </div>
 
         </nav>
